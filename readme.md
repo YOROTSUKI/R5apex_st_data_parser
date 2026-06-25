@@ -1,4 +1,4 @@
 ## usage
 go mod init
 
-go run path\to\st_data.bin
+go run parse_st_data.go path\to\st_data.bin
